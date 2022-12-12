@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PICTURE_TESTGAME",
+    "\\TEST_GAME_1",
+    "\\TEST_GAME_1\\TEST_GAME_1"
+  ],
+  "SelectedNode": "\\TEST_GAME_1\\TEST_GAME_1\\ChessBoard.cs",
+  "PreviewInSolutionExplorer": false
+}
